@@ -1,10 +1,11 @@
-Certainly! Below is a suggested README.md content based on the provided code:
+
 
 ---
 
 # AI Assistant Demo
 
-This repository contains a demonstration of an AI assistant capable of performing various tasks such as generating stories, songs, summaries, opening webpages, downloading YouTube videos, and sending emails. The assistant utilizes OpenAI's GPT-3 model, YouTube's API, and other Python libraries to accomplish these tasks.
+This repository contains a demonstration of an AI assistant capable of performing various tasks such as generating stories, songs, summaries, opening webpages, downloading YouTube videos, and sending emails. The assistant utilizes OpenAI's GPT-3 model and hugging face models , YouTube's API, and other Python libraries to accomplish these tasks.
+There is a lot of details and prompts in the program someone can  take ideas from this and make their own coustimize system ai.
 
 ## Features
 
@@ -14,6 +15,7 @@ This repository contains a demonstration of an AI assistant capable of performin
 - **YouTube Interaction**: Open YouTube in the browser, download videos, search for trending videos, and perform YouTube searches.
 - **Web Interaction**: Open webpages such as Instagram, GitHub, and Safari.
 - **Email Sending**: Send emails using Gmail SMTP.
+- **ETC**: ----
 
 ## Getting Started
 
@@ -22,7 +24,7 @@ This repository contains a demonstration of an AI assistant capable of performin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/ai-assistant-demo.git
+   git clone https://github.com/ganeshnikhil/system_ai_transformer.git
    ```
 
 2. Install the required Python packages:
